@@ -1,1 +1,2 @@
 *.txt ident
+*.c     filter=indent
